@@ -77,6 +77,10 @@ custom_formats:
   score: 20
 - name: SD Quality Tier 2
   score: 20
+- name: 7.1 Surround
+  score: 10
+- name: 5.1 Surround
+  score: 10
 - name: Atmos
   score: 10
 - name: Atmos (Missing)
